@@ -3,7 +3,7 @@
 
 import segno
 from urllib.request import urlopen
-code =segno.make_qr('Hey tum Java Script (file) kha se run karte ho??')
+code =segno.make_qr('https://github.com/VeerSinghLodhi')
 url=urlopen('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWY5Y2xtamh2ZXlreXl0cXg0b2MzMWR0aW15Ynl3cWMxZmE2NWl6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0FF56cexcW2JAXCJj/giphy.gif')
 code.to_artistic(background=url,target='C:\\Users\\Veersingh Lodhi\\Documents\\Qr_Code_Session\\hey.gif',scale=10,light='lightblue')
 print("Saved")
