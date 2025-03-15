@@ -1,6 +1,6 @@
 # Python Concepts: From Basics to Advanced
 
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="200" />
+<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a></p>
 
 This repository contains Python programs and scripts designed to help learners progress from basic to advanced concepts in Python programming. Each file focuses on a specific concept, complete with examples and explanations.
 
@@ -84,6 +84,13 @@ The repository is organized into the following categories:
 
 - Python 3.x installed on your machine
 - Basic understanding of programming (optional, but helpful)
+##
+  <h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://x.com/veerSin22816021?t=o3hZnstGiN8U_nOjQWEqhw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veer singh lodhi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/veer-singh-lodhi-6786aa325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veer singh lodhi" height="30" width="40" /></a>
+  <a href="https://youtube.com//channel//UCFy1I_EXFiaI7gtsVV8ehog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/channel/UCFy1I_EXFiaI7gtsVV8ehog" height="30" width="40" /></a>
+</p>
 
 ## License
 
