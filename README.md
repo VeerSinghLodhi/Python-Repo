@@ -1,6 +1,6 @@
 # Python Concepts: From Basics to Advanced
 
-<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a></p>
+<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a></p>
 
 This repository contains Python programs and scripts designed to help learners progress from basic to advanced concepts in Python programming. Each file focuses on a specific concept, complete with examples and explanations.
 
