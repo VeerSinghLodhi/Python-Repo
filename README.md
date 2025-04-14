@@ -69,11 +69,11 @@ The repository is organized into the following categories:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/VeerSinghLodhi/python-repo.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <repository-name>
+   cd python-repo
    ```
 3. Run the Python scripts in your terminal or IDE of choice:
    ```bash
